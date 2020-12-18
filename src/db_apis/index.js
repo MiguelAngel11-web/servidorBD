@@ -5,7 +5,7 @@ const router = express.Router();
 
 router.get('/', (req, res) => {
     res.json({
-        message: 'Proyecto Redes - 👋🌎🌍🌏',
+        message: 'Proyecto Base de datos - 👋🌎🌍🌏',
         author: 'Equipo Chidori',
         consultas: [{
             'Maestros': '/consulta/maestros',
