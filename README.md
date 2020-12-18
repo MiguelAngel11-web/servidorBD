@@ -5,7 +5,7 @@ Hola amix. aquí les dejo el proyecto de parte del back-end. En este haremos tod
 ### **Instalación**
 Para la instalación sólo debes ejecutar `npm install` y los modulos necesarios se instalaran.
 
-### Empezando el proyecto
+### Ejecutar el proyecto
 
 ```bash
 npm start
